@@ -15,10 +15,10 @@
 
 > Customer with high monthly charges are more prone to churn. 
 <br /> After calculating correlation, it was noticed that Internet Service has a notable positive correlation with Monthly Charges (0.763557), suggesting that customers with internet service tend to have higher monthly charges.  
-Reviewing internet service charges may be effective to retain customers.
+<br /> Reviewing internet service charges may be effective to retain customers.
 
 
-Most optimal contract type to retain customers is 2 year. Customer with 2 years contract are less likely to churn.
+<br /> Most optimal contract type to retain customers is 2 year. Customer with 2 years contract are less likely to churn.
 
 #### Notes::
 > Contract
